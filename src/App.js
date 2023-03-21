@@ -12,7 +12,10 @@ function App() {
         <Sidebar />
         {/* Feeds */}
         {/* Widgets */}
+      
+      
       </div>
+      
     </div>
   );
 }
