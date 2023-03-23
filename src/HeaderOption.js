@@ -11,6 +11,6 @@ function HeaderOption({ avatar, Icon, title}) {
 
     </div>
   )
-}
+};
 
 export default HeaderOption
